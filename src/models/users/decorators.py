@@ -2,7 +2,7 @@ from functools import wraps
 
 from flask import session, flash, redirect, url_for, request
 
-__author__ = 'jslvtr'
+__author__ = 'Lucas Yum'
 
 
 def requires_login(f):

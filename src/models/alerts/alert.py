@@ -5,7 +5,7 @@ from src.common.database import Database
 import src.models.alerts.constants as AlertConstants
 from src.models.items.item import Item
 
-__author__ = 'jslvtr'
+__author__ = 'Lucas Yum'
 
 
 class Alert(object):

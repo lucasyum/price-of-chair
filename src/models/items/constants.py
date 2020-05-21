@@ -1,4 +1,4 @@
-__author__ = 'jslvtr'
+__author__ = 'Lucas Yum'
 
 
 COLLECTION = "items"

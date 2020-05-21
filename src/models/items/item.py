@@ -6,7 +6,7 @@ from src.common.database import Database
 import src.models.items.constants as ItemConstants
 from src.models.stores.store import Store
 
-__author__ = 'jslvtr'
+__author__ = 'Lucas Yum'
 
 
 class Item(object):
